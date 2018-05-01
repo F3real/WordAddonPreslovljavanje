@@ -1,7 +1,7 @@
 # WordAddonPreslovljavanje
 Simple word add in for converting text between latin and cyrillic
 
-Support Microsoft Office Word 2010 and 2013
+Supports Microsoft Office Word 2010,2013 and 2016
 
 
 Jednostavan addon za Microsoft Word. 
